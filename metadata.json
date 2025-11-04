@@ -1,0 +1,4 @@
+{
+  "name": "Clinical Note Summarizer",
+  "description": "Automatically converts lengthy, unstructured patient notes into a structured SOAP format — Subjective, Objective, Assessment, Plan — while enhancing clinical workflow efficiency by extracting medical codes, suggesting diagnoses, and flagging emergency symptoms."
+}
