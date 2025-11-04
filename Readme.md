@@ -1,7 +1,5 @@
 # Clinical Note Summarizer
 
-![image.png](image.png)
-
 An intelligent web application designed to automatically convert lengthy, unstructured patient notes into a structured SOAP format, significantly enhancing clinical workflow efficiency.
 
 ---
